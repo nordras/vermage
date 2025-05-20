@@ -6,6 +6,7 @@ It's a experiment and exercicise made by me Igor Ferreira, the main objective is
 
 ### Structure (working in progress)
 
+```
 vermage/
 ├── src/
 │ ├── main.zig # entry
@@ -14,3 +15,4 @@ vermage/
 │ ├── ast.zig # AST representer
 │ └── interpreter.zig # interpreter/code gen
 └── build.zig # script to build Zig proj
+```
